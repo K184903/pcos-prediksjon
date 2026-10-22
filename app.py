@@ -13,6 +13,7 @@ st.write(
 )
 
 with st.form("pcos_form"):
+    #ppiller, er du over 19 år
     alder = st.number_input(
         "Alder"
     )
