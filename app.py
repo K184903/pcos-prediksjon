@@ -9,7 +9,7 @@ st.set_page_config(
 st.title("PMOS prediksjon")
 
 prevensjon = st.selectbox(
-    "Bruker du hormonell prevensjon (p-piller, p-stav, hormonspiral, p-sprøyte el?",
+    "Bruker du hormonell prevensjon (p-piller, p-stav, hormonspiral, p-sprøyte el)?",
     [" ", "Nei, ikke på minst 3 måneder", "Ja, eller har sluttet for under 3 måneder siden"]
 )
 if prevensjon == " ":
