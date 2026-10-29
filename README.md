@@ -3,8 +3,10 @@
    
    **Grønt:**
       Lite som tyder på PMOS 
+   
    **Gult:**
       Usikkert, det kan være lurt å snakke med lege
+   
    **Rødt:**
       Svarene tyder på at du bør kontakte lege
    
