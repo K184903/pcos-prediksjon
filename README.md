@@ -7,6 +7,9 @@
       Usikkert, det kan være lurt å snakke med lege
    **Rødt**
       Svarene tyder på at du bør kontakte lege
+# Grønt 
+   Lite som tyder på PMOS
+
    
 # Data
    Datasett: Polycystic ovary syndrome (PCOS), Prasoon Kottarathil, Kaggle.
