@@ -1,11 +1,11 @@
 # PMOS-prediksjon
-   En enkel nettside som gir en veiledende vurdering på om du bør kontakte lege på grunn av symptomer som kan tyde på PMOS (polyendokrint metabolsk ovarialsyndrom) . Brukeren svarer på noen spørsmål og får et trafikklys: 
+   Detter er en enkel nettside som gir en veiledende vurdering på om du bør kontakte lege på grunn av symptomer som kan tyde på PMOS (polyendokrint metabolsk ovarialsyndrom) . Brukeren svarer på noen spørsmål og får et trafikklys: 
    
-   **Grønt**
+   **Grønt:**
       Lite som tyder på PMOS 
-   **Gult**
+   **Gult:**
       Usikkert, det kan være lurt å snakke med lege
-   **Rødt**
+   **Rødt:**
       Svarene tyder på at du bør kontakte lege
    
    Svaret er en anbefaling, ikke medisinsk råd eller diagnose
