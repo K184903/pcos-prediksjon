@@ -9,14 +9,14 @@
       Svarene tyder på at du bør kontakte lege
 
 
-# Nettsiden
+## Nettsiden
 Nettsiden finner du på: https://github.com/K184903/pcos-prediksjon 
 
-# Rapport
+## Rapport
 Rapporten finner du på docs/dat158oblig.docx
 
    
-# Data
+## Data
    Datasett er tatt fra: 
    Polycystic ovary syndrome (PCOS), Prasoon Kottarathil, Kaggle.
    Lenke: (https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos)
