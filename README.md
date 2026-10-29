@@ -7,6 +7,21 @@
       Usikkert, det kan være lurt å snakke med lege
    **Rødt**
       Svarene tyder på at du bør kontakte lege
+   
+   Svaret er en anbefaling, ikke medisinsk råd eller diagnose
+
+## Prosjektstruktur
+pcos-prediksjon/
+├── app.py                  # Streamlit-nettsiden
+├── src/
+│   ├── __init__.py
+│   └── predict.py          # Laster modellen og lager prediksjon
+├── model/
+│   └── pcos_model.joblib   # Trent pipeline, features og terskler
+├── data/                   # Datasett (se under)
+├── eda.ipynb               # Utforskende dataanalyse
+├── modell.ipynb            # Rensing, modellvalg, evaluering og lagring av modell
+└── requirements.txt        # Pakker med låste versjoner
 
 
 ## Nettsiden
