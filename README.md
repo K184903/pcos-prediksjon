@@ -11,7 +11,7 @@
 
 
 ## Nettsiden
-Nettsiden finner du på: https://github.com/K184903/pcos-prediksjon 
+Nettsiden finner du på: https://github.com/K184903/pcos-prediksjon
 
 ## Rapport
 Rapporten finner du på docs/dat158oblig.docx
