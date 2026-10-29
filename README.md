@@ -11,17 +11,25 @@
    Svaret er en anbefaling, ikke medisinsk råd eller diagnose
 
 ## Prosjektstruktur
-pcos-prediksjon/
-├── app.py                  # Streamlit-nettsiden
-├── src/
-│   ├── __init__.py
-│   └── predict.py          # Laster modellen og lager prediksjon
-├── model/
-│   └── pcos_model.joblib   # Trent pipeline, features og terskler
-├── data/                   # Datasett (se under)
-├── eda.ipynb               # Utforskende dataanalyse
-├── modell.ipynb            # Rensing, modellvalg, evaluering og lagring av modell
-└── requirements.txt        # Pakker med låste versjoner
+mitt-prosjekt/
+├── .github/               # GitHub-spesifikke konfigurasjoner (CI/CD, maler)
+├── dist/                  # Produksjonsklar kode (genereres automatisk)
+├── node_modules/          # Eksterne avhengigheter/pakker
+├── public/                # Statiske filer (bilder, ikoner, index.html)
+│   ├── favicon.ico
+│   └── robots.txt
+├── src/                   # Hovedkildekoden til applikasjonen
+│   ├── assets/            # Bilder, fonter og globale stiler
+│   ├── components/        # Gjenbrukbare UI-komponenter
+│   ├── hooks/             # Egendefinerte React hooks (hvis relevant)
+│   ├── services/          # API-kall og eksterne integrasjoner
+│   ├── utils/             # Hjelpefunksjoner og verktøy
+│   ├── App.js             # Hovedkomponent
+│   └── index.js           # Inngangspunkt for applikasjonen
+├── .gitignore             # Filer som skal ignoreres av Git
+├── package.json           # Prosjektinformasjon og avhengigheter
+└── README.md              # Denne filen
+
 
 
 ## Nettsiden
